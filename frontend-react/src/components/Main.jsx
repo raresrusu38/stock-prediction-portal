@@ -12,7 +12,7 @@ const Main = () => {
               <p className='text-light lead'>
               Many of our components require the use of JavaScript to function. Specifically, they require our own JavaScript plugins and Popper. Place one of the following near the end of your pages, right before the closing to enable them.
               </p>
-              <Button text='Login' class='btn btn-outline-info' />
+              <Button text='Explore Now' class='btn btn-outline-success' url='/dashboard' />
           </div>
       </div>
     </>
